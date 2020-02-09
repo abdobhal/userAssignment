@@ -1,0 +1,19 @@
+.user-section {
+	text-align: center;
+}
+
+.user-section .email{
+	font-weight: normal;
+	color: rgba(169,172,172,1);
+	margin-top: 0;
+}
+
+.user-section .user-name {
+	margin-bottom: 0;
+}
+
+.user-section .avatar-image{
+	display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}

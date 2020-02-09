@@ -1,0 +1,31 @@
+.dashboard-page {
+	text-align: center;
+	width: 50%;
+}
+
+.user-list {
+	padding: 0;
+	margin-bottom: 40px;
+	max-height: 210px;
+	overflow: auto;
+}
+
+.user-list li {
+	cursor: pointer;
+	list-style: none;
+}
+
+.dashboard-page button {
+	padding: 3px 7px;
+	color: #333333;
+	margin-right: 12px;
+	background: none;
+}
+
+.dashboard-page button:last-child {
+	margin: 0;
+}
+
+.dashboard-page button:hover {
+	background-color: rgba(0,0,0,.1); 
+}
